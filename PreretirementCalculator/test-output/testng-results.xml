@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12525" started-at="2022-04-06T00:47:19 CDT" finished-at="2022-04-06T00:47:32 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12525" started-at="2022-04-06T00:47:19 CDT" finished-at="2022-04-06T00:47:32 CDT">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:tests.Tests@67b467e9]" name="browserlaunch" is-config="true" duration-ms="8059" started-at="2022-04-06T00:47:19 CDT" finished-at="2022-04-06T00:47:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="UIElementsVerification()[pri:0, instance:tests.Tests@67b467e9]" name="UIElementsVerification" duration-ms="764" started-at="2022-04-06T00:47:27 CDT" description="Verifing all the UI Elements" finished-at="2022-04-06T00:47:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UIElementsVerification -->
+        <test-method status="PASS" signature="enterDataValues()[pri:0, instance:tests.Tests@67b467e9]" name="enterDataValues" duration-ms="3498" started-at="2022-04-06T00:47:28 CDT" description="Entering Data Values" finished-at="2022-04-06T00:47:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDataValues -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.Tests@67b467e9]" name="closeBrowser" is-config="true" duration-ms="165" started-at="2022-04-06T00:47:31 CDT" finished-at="2022-04-06T00:47:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
